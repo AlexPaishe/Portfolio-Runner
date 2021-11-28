@@ -10,6 +10,7 @@ TagManager:
   - Money
   - DangerLeft
   - DangerRight
+  - BigMoney
   layers:
   - Default
   - TransparentFX
